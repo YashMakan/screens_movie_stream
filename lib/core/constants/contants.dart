@@ -11,3 +11,7 @@ class CustomColors {
   static const Color blackShade600 = Color(0xFF504e50);
   static const Color blackShade800 = Color(0xFF807e81);
 }
+
+class Strings {
+  static const String baseUrl = "https://6202-35-194-226-228.ngrok-free.app";
+}
